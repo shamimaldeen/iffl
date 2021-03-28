@@ -107,6 +107,10 @@ class Batch extends MX_Controller {
     }
 
     public function addNew() {
+//        ini_set('display_errors', 1);
+//        ini_set('display_startup_errors', 1);
+//        error_reporting(E_ALL);
+
 
         $id = $this->input->post('id');
         $batch_id = $this->input->post('batch_id');
@@ -184,7 +188,7 @@ class Batch extends MX_Controller {
                     $messageprint = $this->parser->parse_string($message, $data1);
                     $data2[] = array($to => $messageprint);
 
-                    $this->sms->sendSms($to, $message, $data2);
+                   // $this->sms->sendSms($to, $message, $data2);
                 }
                 //end
                 //email
@@ -205,6 +209,7 @@ class Batch extends MX_Controller {
                 $this->session->set_flashdata('feedback', 'Updated');
             }
             // Loading View
+
             redirect('batch');
         }
     }
@@ -315,7 +320,7 @@ class Batch extends MX_Controller {
             if ($autosms->status == 'Active') {
                 $messageprint = $this->parser->parse_string($message, $data1);
                 $data2[] = array($to => $messageprint);
-                $this->sms->sendSms($to, $message, $data2);
+               // $this->sms->sendSms($to, $message, $data2);
             }
             //end
             //email

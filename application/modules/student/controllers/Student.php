@@ -202,7 +202,7 @@ class Student extends MX_Controller {
                     if ($autosms->status == 'Active') {
                         $messageprint = $this->parser->parse_string($message, $data1);
                         $data2[] = array($to => $messageprint);
-                        $this->sms->sendSms($to, $message, $data2);
+                        //$this->sms->sendSms($to, $message, $data2);
                     }
                     //end
                     //email

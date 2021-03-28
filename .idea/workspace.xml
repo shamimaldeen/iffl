@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f8aa731-3d3f-40a1-afcf-e86d869bc019" name="Default Changelist" comment="" />
+    <list default="true" id="4f8aa731-3d3f-40a1-afcf-e86d869bc019" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/batch/controllers/Batch.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/batch/controllers/Batch.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/student/controllers/Student.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/student/controllers/Student.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +16,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -55,7 +62,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../myshop" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -71,7 +78,11 @@
       <workItem from="1616305382257" duration="1240000" />
       <workItem from="1616391877265" duration="93000" />
       <workItem from="1616568027609" duration="678000" />
-      <workItem from="1616577681226" duration="8055000" />
+      <workItem from="1616577681226" duration="8752000" />
+      <workItem from="1616649996752" duration="47000" />
+      <workItem from="1616837309106" duration="1204000" />
+      <workItem from="1616847663665" duration="2222000" />
+      <workItem from="1616909892537" duration="597000" />
     </task>
     <servers />
   </component>
@@ -79,13 +90,13 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1616571194407">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1616847689850">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1616571194407" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1616391904976">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1616847689850" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1616909892821">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1616391904976" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1616909892821" />
   </component>
 </project>
