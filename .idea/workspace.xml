@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f8aa731-3d3f-40a1-afcf-e86d869bc019" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/batch/controllers/Batch.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/batch/controllers/Batch.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/student/controllers/Student.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/student/controllers/Student.php" afterDir="false" />
-    </list>
+    <list default="true" id="4f8aa731-3d3f-40a1-afcf-e86d869bc019" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +58,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../myshop" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../rpi" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -83,6 +79,7 @@
       <workItem from="1616837309106" duration="1204000" />
       <workItem from="1616847663665" duration="2222000" />
       <workItem from="1616909892537" duration="597000" />
+      <workItem from="1616913749979" duration="10000" />
     </task>
     <servers />
   </component>
@@ -90,13 +87,13 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1616847689850">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1616913757701">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1616847689850" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1616909892821">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1616913757701" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1616913750222">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1616909892821" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1616913750222" />
   </component>
 </project>
